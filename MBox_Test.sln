@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FigureSquareCalculator", "FigureSquareCalculator\FigureSquareCalculator.csproj", "{38D06CB7-0B02-4BF0-A2EF-68B47B1A4779}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{952D3A3B-99E6-4981-914E-C0102725440B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38D06CB7-0B02-4BF0-A2EF-68B47B1A4779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38D06CB7-0B02-4BF0-A2EF-68B47B1A4779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38D06CB7-0B02-4BF0-A2EF-68B47B1A4779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38D06CB7-0B02-4BF0-A2EF-68B47B1A4779}.Release|Any CPU.Build.0 = Release|Any CPU
+		{952D3A3B-99E6-4981-914E-C0102725440B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{952D3A3B-99E6-4981-914E-C0102725440B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{952D3A3B-99E6-4981-914E-C0102725440B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{952D3A3B-99E6-4981-914E-C0102725440B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
